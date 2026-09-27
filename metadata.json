@@ -1,0 +1,7 @@
+{
+  "name": "EventPulse - AI Post Suite for Events",
+  "description": "AI-native SaaS platform powering professional thought-leadership, event social reach amplification, and high-engagement LinkedIn content authoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
